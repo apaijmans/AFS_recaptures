@@ -40,7 +40,7 @@ Post-processing generated '.xlsx' files used for visual inspection. All correcte
 - Pup: combined results from 'recaptures_p-p_2023.R' and 'recaptures_p-p_r159-168.R'
 - Female: combined results from 'recaptures_p-f_2023.R' and 'recaptures_f-f_2023.R'
 - Male: combined results from 'recaptures_p-m_2023.R', 'recaptures_p-m_r159-168.R', 'recaptures_m-m_2023.R', 'recaptures_m-m_repeats.R', and 'recaptures_m-m_r159-168.R'
-Genotypes identified as confirmed duplicates were flagged in the microsatellite database by manually entering the matching tissue IDs in the Matches column. The updated file, 'all_msat_genotypes_uniqueID.xlsx', was then used as input for the recruitment analysis. The recruitment analysis is maintained in a separate [github repository](https://github.com/apaijmans/AFS_male_recruits).
+Genotypes identified as confirmed duplicates were flagged in the microsatellite database by manually entering the matching tissue IDs in the Matches column. The updated file, 'all_msat_genotypes_uniqueID.xlsx', was then used as input for the recruitment analysis, which is maintained in a separate [github repository](https://github.com/apaijmans/AFS_male_recruits).
 
 ## 2. Data
 
